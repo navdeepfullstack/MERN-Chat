@@ -1,1 +1,1 @@
-# MERN-chat
+# MERN-Chat
